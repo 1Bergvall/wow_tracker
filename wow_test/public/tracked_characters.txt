@@ -1,0 +1,18 @@
+# Format: character_name,server_name
+# One character per line
+# Example:
+jettonetrick,draenor
+fortnitegoat,draenor
+Ghøùl,draenor
+fortnitexd,draenor
+duelistmain,draenor
+memewalkér,ravencrest
+slakton,draenor
+anzed,draenor
+anzeed,draenor
+usebalohocla,draenor
+Louserius,Kazzak
+draviel,ravencrest
+routerup,draenor
+vysemain,draenor
+lohoklaevol,draenor
